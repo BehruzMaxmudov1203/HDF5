@@ -1,0 +1,1225 @@
+Date,Country,Status,AQI Value
+2025-01-02,Albania,Good,25
+2025-01-02,Algeria,Unhealthy for Sensitive Groups,137
+2025-01-02,Andorra,Good,11
+2025-01-02,Argentina,Good,25
+2025-01-02,Armenia,Moderate,69
+2025-01-02,Australia,Good,41
+2025-01-02,Austria,Moderate,94
+2025-01-02,Azerbaijan,Good,46
+2025-01-02,Bahrain,Moderate,65
+2025-01-02,Bangladesh,Very Unhealthy,234
+2025-01-02,Belarus,Good,21
+2025-01-02,Belgium,Good,31
+2025-01-02,Bosnia and Herzegovina,Unhealthy,158
+2025-01-02,Brazil,Moderate,66
+2025-01-02,Brunei,Good,14
+2025-01-02,Bulgaria,Unhealthy for Sensitive Groups,105
+2025-01-02,Cambodia,Unhealthy for Sensitive Groups,121
+2025-01-02,Canada,Good,47
+2025-01-02,Cape Verde,Moderate,52
+2025-01-02,Chad,Unhealthy,152
+2025-01-02,Chile,Good,48
+2025-01-02,China,Very Unhealthy,232
+2025-01-02,Colombia,Moderate,78
+2025-01-02,Costa Rica,Good,17
+2025-01-02,Croatia,Unhealthy for Sensitive Groups,103
+2025-01-02,Cyprus,Good,42
+2025-01-02,Czech Republic,Moderate,91
+2025-01-02,Denmark,Good,20
+2025-01-02,Dominican Republic,Good,8
+2025-01-02,Ecuador,Good,32
+2025-01-02,Egypt,Unhealthy for Sensitive Groups,144
+2025-01-02,Estonia,Good,19
+2025-01-02,Ethiopia,Moderate,55
+2025-01-02,Finland,Good,21
+2025-01-02,France,Unhealthy for Sensitive Groups,129
+2025-01-02,French Guiana,Good,36
+2025-01-02,Georgia,Moderate,58
+2025-01-02,Germany,Unhealthy for Sensitive Groups,108
+2025-01-02,Ghana,Moderate,82
+2025-01-02,Gibraltar,Good,15
+2025-01-02,Greece,Unhealthy for Sensitive Groups,124
+2025-01-02,Guadeloupe,Good,23
+2025-01-02,Guatemala,Moderate,53
+2025-01-02,Hong Kong,Unhealthy for Sensitive Groups,127
+2025-01-02,Hungary,Moderate,94
+2025-01-02,Iceland,Good,22
+2025-01-02,India,Very Unhealthy,202
+2025-01-02,Indonesia,Moderate,82
+2025-01-02,Iran,Unhealthy for Sensitive Groups,107
+2025-01-02,Iraq,Unhealthy for Sensitive Groups,109
+2025-01-02,Ireland,Good,42
+2025-01-02,Israel,Moderate,89
+2025-01-02,Italy,Unhealthy,174
+2025-01-02,Ivory Coast,Moderate,65
+2025-01-02,Japan,Moderate,71
+2025-01-02,Jersey,Good,7
+2025-01-02,Jordan,Good,37
+2025-01-02,Kazakhstan,Moderate,66
+2025-01-02,Kenya,Good,30
+2025-01-02,Kosovo,Very Unhealthy,245
+2025-01-02,Kuwait,Moderate,51
+2025-01-02,Kyrgyzstan,Good,48
+2025-01-02,Laos,Moderate,80
+2025-01-02,Latvia,Good,3
+2025-01-02,Lebanon,Moderate,59
+2025-01-02,Liberia,Moderate,100
+2025-01-02,Liechtenstein,Good,29
+2025-01-02,Lithuania,Good,18
+2025-01-02,Luxembourg,Good,24
+2025-01-02,Macao,Unhealthy,159
+2025-01-02,Macedonia,Unhealthy,171
+2025-01-02,Madagascar,Good,25
+2025-01-02,Malaysia,Moderate,62
+2025-01-02,Malta,Good,16
+2025-01-02,Martinique,Good,24
+2025-01-02,Mexico,Unhealthy for Sensitive Groups,126
+2025-01-02,Moldova,Good,15
+2025-01-02,Monaco,Moderate,60
+2025-01-02,Mongolia,Unhealthy for Sensitive Groups,112
+2025-01-02,Montenegro,Unhealthy for Sensitive Groups,106
+2025-01-02,Myanmar,Unhealthy for Sensitive Groups,128
+2025-01-02,Nepal,Unhealthy for Sensitive Groups,147
+2025-01-02,Netherlands,Good,40
+2025-01-02,New Caledonia,Good,15
+2025-01-02,New Zealand,Good,15
+2025-01-02,Nigeria,Unhealthy for Sensitive Groups,112
+2025-01-02,Norway,Good,13
+2025-01-02,Pakistan,Unhealthy,198
+2025-01-02,Palestinian Territory,Good,38
+2025-01-02,Peru,Moderate,56
+2025-01-02,Philippines,Moderate,51
+2025-01-02,Poland,Moderate,56
+2025-01-02,Portugal,Good,39
+2025-01-02,Reunion,Good,39
+2025-01-02,Romania,Unhealthy for Sensitive Groups,129
+2025-01-02,Russia,Moderate,52
+2025-01-02,San Marino,Unhealthy for Sensitive Groups,149
+2025-01-02,Saudi Arabia,Good,42
+2025-01-02,Serbia,Very Unhealthy,202
+2025-01-02,Singapore,Moderate,51
+2025-01-02,Slovakia,Moderate,100
+2025-01-02,Slovenia,Unhealthy for Sensitive Groups,102
+2025-01-02,South Africa,Moderate,53
+2025-01-02,South Korea,Unhealthy for Sensitive Groups,139
+2025-01-02,Spain,Unhealthy for Sensitive Groups,106
+2025-01-02,Sri Lanka,Unhealthy for Sensitive Groups,114
+2025-01-02,Sweden,Good,17
+2025-01-02,Switzerland,Moderate,55
+2025-01-02,Taiwan,Moderate,51
+2025-01-02,Tajikistan,Moderate,95
+2025-01-02,Thailand,Unhealthy,159
+2025-01-02,Togo,Unhealthy for Sensitive Groups,121
+2025-01-02,Trinidad and Tobago,Good,15
+2025-01-02,Turkey,Unhealthy,168
+2025-01-02,Turkmenistan,Good,38
+2025-01-02,Uganda,Hazardous,306
+2025-01-02,Ukraine,Moderate,51
+2025-01-02,United Arab Emirates,Moderate,62
+2025-01-02,United Kingdom of Great Britain and Northern Ireland,Good,45
+2025-01-02,United States of America,Unhealthy for Sensitive Groups,134
+2025-01-02,Uzbekistan,Moderate,90
+2025-01-02,Vatican,Unhealthy,151
+2025-01-02,Venezuela,Good,3
+2025-01-02,Vietnam,Moderate,78
+2025-01-09,Albania,Good,11
+2025-01-09,Algeria,Good,30
+2025-01-09,Andorra,Good,10
+2025-01-09,Argentina,Good,31
+2025-01-09,Armenia,Moderate,96
+2025-01-09,Australia,Good,46
+2025-01-09,Austria,Moderate,61
+2025-01-09,Azerbaijan,Moderate,77
+2025-01-09,Bangladesh,Unhealthy,188
+2025-01-09,Belarus,Good,49
+2025-01-09,Belgium,Moderate,59
+2025-01-09,Bosnia and Herzegovina,Moderate,69
+2025-01-09,Brazil,Good,40
+2025-01-09,Brunei,Good,16
+2025-01-09,Bulgaria,Moderate,94
+2025-01-09,Burkina Faso,Unhealthy,151
+2025-01-09,Cambodia,Hazardous,305
+2025-01-09,Canada,Good,48
+2025-01-09,Cape Verde,Good,46
+2025-01-09,Chad,Unhealthy,169
+2025-01-09,Chile,Good,44
+2025-01-09,China,Unhealthy,171
+2025-01-09,Colombia,Moderate,55
+2025-01-09,Costa Rica,Good,20
+2025-01-09,Croatia,Good,24
+2025-01-09,Cyprus,Unhealthy for Sensitive Groups,102
+2025-01-09,Czech Republic,Good,48
+2025-01-09,Denmark,Good,19
+2025-01-09,Dominican Republic,Good,25
+2025-01-09,Ecuador,Good,38
+2025-01-09,Egypt,Unhealthy,160
+2025-01-09,Estonia,Good,21
+2025-01-09,Ethiopia,Moderate,61
+2025-01-09,Finland,Good,30
+2025-01-09,France,Moderate,74
+2025-01-09,French Guiana,Good,40
+2025-01-09,Georgia,Moderate,99
+2025-01-09,Germany,Unhealthy for Sensitive Groups,112
+2025-01-09,Ghana,Unhealthy for Sensitive Groups,104
+2025-01-09,Gibraltar,Moderate,51
+2025-01-09,Greece,Moderate,96
+2025-01-09,Guadeloupe,Good,28
+2025-01-09,Guatemala,Good,25
+2025-01-09,Hong Kong,Unhealthy for Sensitive Groups,107
+2025-01-09,Hungary,Moderate,84
+2025-01-09,Iceland,Good,21
+2025-01-09,India,Hazardous,303
+2025-01-09,Indonesia,Moderate,88
+2025-01-09,Iran,Unhealthy for Sensitive Groups,138
+2025-01-09,Iraq,Unhealthy for Sensitive Groups,104
+2025-01-09,Ireland,Moderate,97
+2025-01-09,Israel,Moderate,88
+2025-01-09,Italy,Unhealthy for Sensitive Groups,105
+2025-01-09,Ivory Coast,Moderate,65
+2025-01-09,Japan,Moderate,70
+2025-01-09,Jersey,Good,13
+2025-01-09,Jordan,Good,27
+2025-01-09,Kazakhstan,Unhealthy for Sensitive Groups,114
+2025-01-09,Kenya,Moderate,70
+2025-01-09,Kosovo,Moderate,62
+2025-01-09,Kuwait,Moderate,73
+2025-01-09,Kyrgyzstan,Good,17
+2025-01-09,Laos,Unhealthy,151
+2025-01-09,Latvia,Good,10
+2025-01-09,Liberia,Unhealthy,171
+2025-01-09,Liechtenstein,Good,28
+2025-01-09,Lithuania,Good,19
+2025-01-09,Luxembourg,Good,27
+2025-01-09,Macao,Unhealthy for Sensitive Groups,129
+2025-01-09,Macedonia,Unhealthy,151
+2025-01-09,Madagascar,Moderate,87
+2025-01-09,Malaysia,Moderate,64
+2025-01-09,Malta,Good,25
+2025-01-09,Martinique,Good,18
+2025-01-09,Mexico,Moderate,87
+2025-01-09,Moldova,Good,18
+2025-01-09,Monaco,Good,35
+2025-01-09,Mongolia,Unhealthy,165
+2025-01-09,Montenegro,Moderate,89
+2025-01-09,Myanmar,Unhealthy for Sensitive Groups,123
+2025-01-09,Nepal,Unhealthy for Sensitive Groups,149
+2025-01-09,Netherlands,Moderate,65
+2025-01-09,New Caledonia,Good,10
+2025-01-09,New Zealand,Good,13
+2025-01-09,Nigeria,Unhealthy for Sensitive Groups,135
+2025-01-09,Norway,Good,42
+2025-01-09,Pakistan,Unhealthy for Sensitive Groups,141
+2025-01-09,Palestinian Territory,Moderate,87
+2025-01-09,Peru,Moderate,55
+2025-01-09,Philippines,Moderate,86
+2025-01-09,Poland,Unhealthy for Sensitive Groups,108
+2025-01-09,Portugal,Good,32
+2025-01-09,Reunion,Good,12
+2025-01-09,Romania,Unhealthy for Sensitive Groups,128
+2025-01-09,Russia,Moderate,89
+2025-01-09,San Marino,Good,31
+2025-01-09,Saudi Arabia,Unhealthy,158
+2025-01-09,Serbia,Unhealthy,187
+2025-01-09,Singapore,Good,46
+2025-01-09,Slovakia,Moderate,81
+2025-01-09,Slovenia,Good,22
+2025-01-09,South Africa,Moderate,59
+2025-01-09,South Korea,Good,50
+2025-01-09,Spain,Moderate,64
+2025-01-09,Sri Lanka,Unhealthy for Sensitive Groups,122
+2025-01-09,Sweden,Good,17
+2025-01-09,Switzerland,Good,29
+2025-01-09,Taiwan,Moderate,71
+2025-01-09,Tajikistan,Unhealthy for Sensitive Groups,129
+2025-01-09,Thailand,Unhealthy,171
+2025-01-09,Togo,Unhealthy for Sensitive Groups,110
+2025-01-09,Trinidad and Tobago,Good,49
+2025-01-09,Turkey,Unhealthy,185
+2025-01-09,Turkmenistan,Moderate,74
+2025-01-09,Uganda,Very Unhealthy,267
+2025-01-09,Ukraine,Good,43
+2025-01-09,United Arab Emirates,Moderate,95
+2025-01-09,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,116
+2025-01-09,United States of America,Unhealthy for Sensitive Groups,144
+2025-01-09,Uzbekistan,Unhealthy,161
+2025-01-09,Vatican,Good,50
+2025-01-09,Vietnam,Unhealthy for Sensitive Groups,128
+2025-01-16,Albania,Moderate,89
+2025-01-16,Algeria,Good,50
+2025-01-16,Andorra,Good,12
+2025-01-16,Argentina,Good,10
+2025-01-16,Armenia,Unhealthy for Sensitive Groups,115
+2025-01-16,Australia,Good,39
+2025-01-16,Austria,Moderate,69
+2025-01-16,Azerbaijan,Good,29
+2025-01-16,Bahrain,Unhealthy for Sensitive Groups,137
+2025-01-16,Bangladesh,Very Unhealthy,250
+2025-01-16,Belarus,Good,22
+2025-01-16,Belgium,Unhealthy for Sensitive Groups,131
+2025-01-16,Bosnia and Herzegovina,Moderate,95
+2025-01-16,Brazil,Moderate,61
+2025-01-16,Brunei,Good,10
+2025-01-16,Bulgaria,Moderate,98
+2025-01-16,Burkina Faso,Good,45
+2025-01-16,Cambodia,Good,47
+2025-01-16,Canada,Good,50
+2025-01-16,Cape Verde,Good,36
+2025-01-16,Chad,Unhealthy,159
+2025-01-16,Chile,Moderate,51
+2025-01-16,China,Unhealthy,170
+2025-01-16,Colombia,Moderate,59
+2025-01-16,Costa Rica,Good,19
+2025-01-16,Croatia,Moderate,100
+2025-01-16,Cyprus,Moderate,51
+2025-01-16,Czech Republic,Unhealthy for Sensitive Groups,122
+2025-01-16,Denmark,Good,16
+2025-01-16,Dominican Republic,Good,22
+2025-01-16,Ecuador,Good,49
+2025-01-16,Egypt,Unhealthy,174
+2025-01-16,Estonia,Good,23
+2025-01-16,Ethiopia,Moderate,57
+2025-01-16,Finland,Good,16
+2025-01-16,France,Unhealthy for Sensitive Groups,149
+2025-01-16,French Guiana,Good,15
+2025-01-16,Georgia,Moderate,90
+2025-01-16,Germany,Unhealthy for Sensitive Groups,138
+2025-01-16,Ghana,Moderate,97
+2025-01-16,Gibraltar,Good,41
+2025-01-16,Greece,Good,47
+2025-01-16,Guadeloupe,Good,20
+2025-01-16,Guatemala,Good,38
+2025-01-16,Hong Kong,Unhealthy for Sensitive Groups,115
+2025-01-16,Hungary,Unhealthy for Sensitive Groups,131
+2025-01-16,Iceland,Good,43
+2025-01-16,India,Very Unhealthy,271
+2025-01-16,Indonesia,Moderate,85
+2025-01-16,Iran,Unhealthy,161
+2025-01-16,Iraq,Unhealthy,177
+2025-01-16,Ireland,Good,43
+2025-01-16,Israel,Moderate,98
+2025-01-16,Italy,Moderate,98
+2025-01-16,Ivory Coast,Moderate,82
+2025-01-16,Japan,Moderate,65
+2025-01-16,Jersey,Good,1
+2025-01-16,Jordan,Good,36
+2025-01-16,Kazakhstan,Unhealthy for Sensitive Groups,137
+2025-01-16,Kenya,Good,34
+2025-01-16,Kosovo,Good,39
+2025-01-16,Kuwait,Unhealthy for Sensitive Groups,125
+2025-01-16,Kyrgyzstan,Good,4
+2025-01-16,Laos,Unhealthy for Sensitive Groups,140
+2025-01-16,Latvia,Good,17
+2025-01-16,Liechtenstein,Good,31
+2025-01-16,Lithuania,Good,17
+2025-01-16,Luxembourg,Good,43
+2025-01-16,Macao,Unhealthy for Sensitive Groups,114
+2025-01-16,Macedonia,Unhealthy for Sensitive Groups,112
+2025-01-16,Madagascar,Moderate,61
+2025-01-16,Malaysia,Moderate,64
+2025-01-16,Malta,Good,33
+2025-01-16,Martinique,Good,22
+2025-01-16,Mexico,Unhealthy for Sensitive Groups,105
+2025-01-16,Moldova,Moderate,61
+2025-01-16,Monaco,Good,22
+2025-01-16,Mongolia,Unhealthy for Sensitive Groups,113
+2025-01-16,Montenegro,Good,50
+2025-01-16,Myanmar,Unhealthy for Sensitive Groups,113
+2025-01-16,Nepal,Unhealthy for Sensitive Groups,134
+2025-01-16,Netherlands,Unhealthy for Sensitive Groups,145
+2025-01-16,New Caledonia,Good,14
+2025-01-16,New Zealand,Good,28
+2025-01-16,Nigeria,Unhealthy,162
+2025-01-16,Norway,Good,45
+2025-01-16,Pakistan,Unhealthy,167
+2025-01-16,Palestinian Territory,Unhealthy for Sensitive Groups,110
+2025-01-16,Peru,Moderate,59
+2025-01-16,Philippines,Moderate,64
+2025-01-16,Poland,Unhealthy for Sensitive Groups,116
+2025-01-16,Portugal,Moderate,60
+2025-01-16,Reunion,Good,13
+2025-01-16,Romania,Moderate,97
+2025-01-16,Russia,Moderate,77
+2025-01-16,San Marino,Good,24
+2025-01-16,Saudi Arabia,Unhealthy,164
+2025-01-16,Serbia,Unhealthy,165
+2025-01-16,Singapore,Good,27
+2025-01-16,Slovakia,Unhealthy for Sensitive Groups,123
+2025-01-16,Slovenia,Moderate,72
+2025-01-16,South Africa,Good,43
+2025-01-16,South Korea,Moderate,73
+2025-01-16,Spain,Unhealthy for Sensitive Groups,149
+2025-01-16,Sri Lanka,Moderate,86
+2025-01-16,Sweden,Good,35
+2025-01-16,Switzerland,Moderate,68
+2025-01-16,Taiwan,Moderate,75
+2025-01-16,Tajikistan,Unhealthy,191
+2025-01-16,Thailand,Unhealthy for Sensitive Groups,150
+2025-01-16,Togo,Unhealthy,152
+2025-01-16,Trinidad and Tobago,Good,44
+2025-01-16,Turkey,Unhealthy,163
+2025-01-16,Turkmenistan,Unhealthy for Sensitive Groups,107
+2025-01-16,Uganda,Very Unhealthy,299
+2025-01-16,Ukraine,Moderate,66
+2025-01-16,United Arab Emirates,Moderate,90
+2025-01-16,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,102
+2025-01-16,United States of America,Moderate,93
+2025-01-16,Uzbekistan,Unhealthy,170
+2025-01-16,Vatican,Good,25
+2025-01-16,Vietnam,Unhealthy for Sensitive Groups,131
+2025-01-23,Albania,Good,9
+2025-01-23,Algeria,Moderate,78
+2025-01-23,Andorra,Good,15
+2025-01-23,Argentina,Good,37
+2025-01-23,Armenia,Unhealthy for Sensitive Groups,106
+2025-01-23,Australia,Good,46
+2025-01-23,Austria,Moderate,57
+2025-01-23,Azerbaijan,Good,30
+2025-01-23,Bahrain,Moderate,87
+2025-01-23,Bangladesh,Very Unhealthy,245
+2025-01-23,Belarus,Good,48
+2025-01-23,Belgium,Unhealthy for Sensitive Groups,101
+2025-01-23,Bosnia and Herzegovina,Unhealthy for Sensitive Groups,101
+2025-01-23,Brazil,Good,48
+2025-01-23,Brunei,Good,11
+2025-01-23,Bulgaria,Unhealthy for Sensitive Groups,126
+2025-01-23,Burkina Faso,Moderate,82
+2025-01-23,Cambodia,Very Unhealthy,201
+2025-01-23,Canada,Moderate,82
+2025-01-23,Cape Verde,Good,19
+2025-01-23,Chad,Hazardous,410
+2025-01-23,Chile,Good,48
+2025-01-23,China,Very Unhealthy,285
+2025-01-23,Colombia,Moderate,70
+2025-01-23,Costa Rica,Good,21
+2025-01-23,Croatia,Unhealthy for Sensitive Groups,127
+2025-01-23,Cyprus,Good,50
+2025-01-23,Czech Republic,Moderate,87
+2025-01-23,Denmark,Good,28
+2025-01-23,Dominican Republic,Good,19
+2025-01-23,Ecuador,Moderate,62
+2025-01-23,Egypt,Unhealthy,170
+2025-01-23,Estonia,Good,35
+2025-01-23,Ethiopia,Moderate,78
+2025-01-23,Finland,Good,28
+2025-01-23,France,Unhealthy for Sensitive Groups,111
+2025-01-23,French Guiana,Good,18
+2025-01-23,Georgia,Moderate,73
+2025-01-23,Germany,Unhealthy for Sensitive Groups,136
+2025-01-23,Ghana,Moderate,72
+2025-01-23,Gibraltar,Good,25
+2025-01-23,Greece,Moderate,100
+2025-01-23,Guadeloupe,Good,18
+2025-01-23,Guatemala,Good,13
+2025-01-23,Hong Kong,Moderate,70
+2025-01-23,Hungary,Unhealthy for Sensitive Groups,101
+2025-01-23,Iceland,Good,20
+2025-01-23,India,Very Unhealthy,230
+2025-01-23,Indonesia,Unhealthy for Sensitive Groups,110
+2025-01-23,Iran,Unhealthy for Sensitive Groups,128
+2025-01-23,Iraq,Unhealthy,157
+2025-01-23,Ireland,Good,46
+2025-01-23,Israel,Moderate,69
+2025-01-23,Italy,Unhealthy for Sensitive Groups,105
+2025-01-23,Ivory Coast,Good,39
+2025-01-23,Japan,Unhealthy for Sensitive Groups,112
+2025-01-23,Jersey,Good,12
+2025-01-23,Jordan,Good,25
+2025-01-23,Kazakhstan,Moderate,87
+2025-01-23,Kenya,Good,35
+2025-01-23,Kosovo,Unhealthy for Sensitive Groups,121
+2025-01-23,Kuwait,Moderate,81
+2025-01-23,Kyrgyzstan,Good,17
+2025-01-23,Laos,Unhealthy,160
+2025-01-23,Latvia,Good,25
+2025-01-23,Liberia,Moderate,69
+2025-01-23,Liechtenstein,Good,33
+2025-01-23,Lithuania,Good,12
+2025-01-23,Luxembourg,Good,38
+2025-01-23,Macao,Moderate,89
+2025-01-23,Macedonia,Unhealthy,157
+2025-01-23,Madagascar,Good,38
+2025-01-23,Malaysia,Moderate,71
+2025-01-23,Malta,Good,36
+2025-01-23,Martinique,Good,27
+2025-01-23,Mexico,Moderate,88
+2025-01-23,Moldova,Good,34
+2025-01-23,Monaco,Moderate,58
+2025-01-23,Mongolia,Unhealthy for Sensitive Groups,120
+2025-01-23,Montenegro,Moderate,88
+2025-01-23,Myanmar,Unhealthy,156
+2025-01-23,Nepal,Unhealthy for Sensitive Groups,115
+2025-01-23,Netherlands,Unhealthy for Sensitive Groups,104
+2025-01-23,New Caledonia,Good,15
+2025-01-23,New Zealand,Good,43
+2025-01-23,Nigeria,Unhealthy for Sensitive Groups,120
+2025-01-23,Norway,Good,24
+2025-01-23,Pakistan,Unhealthy for Sensitive Groups,117
+2025-01-23,Palestinian Territory,Moderate,65
+2025-01-23,Peru,Moderate,51
+2025-01-23,Philippines,Unhealthy for Sensitive Groups,114
+2025-01-23,Poland,Unhealthy,159
+2025-01-23,Portugal,Good,30
+2025-01-23,Reunion,Good,13
+2025-01-23,Romania,Unhealthy for Sensitive Groups,144
+2025-01-23,Russia,Moderate,71
+2025-01-23,San Marino,Good,17
+2025-01-23,Saudi Arabia,Moderate,91
+2025-01-23,Serbia,Very Unhealthy,230
+2025-01-23,Singapore,Moderate,60
+2025-01-23,Slovakia,Moderate,65
+2025-01-23,Slovenia,Moderate,58
+2025-01-23,South Africa,Moderate,63
+2025-01-23,South Korea,Unhealthy,165
+2025-01-23,Spain,Moderate,84
+2025-01-23,Sri Lanka,Unhealthy for Sensitive Groups,103
+2025-01-23,Sweden,Moderate,52
+2025-01-23,Switzerland,Moderate,68
+2025-01-23,Taiwan,Unhealthy for Sensitive Groups,119
+2025-01-23,Tajikistan,Moderate,55
+2025-01-23,Thailand,Very Unhealthy,205
+2025-01-23,Togo,Moderate,78
+2025-01-23,Trinidad and Tobago,Good,34
+2025-01-23,Turkey,Unhealthy,174
+2025-01-23,Turkmenistan,Good,9
+2025-01-23,Uganda,Very Unhealthy,230
+2025-01-23,Ukraine,Moderate,75
+2025-01-23,United Arab Emirates,Unhealthy for Sensitive Groups,122
+2025-01-23,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,115
+2025-01-23,United States of America,Unhealthy for Sensitive Groups,120
+2025-01-23,Uzbekistan,Good,33
+2025-01-23,Vatican,Moderate,68
+2025-01-23,Vietnam,Unhealthy for Sensitive Groups,130
+2025-01-30,Albania,Good,47
+2025-01-30,Algeria,Moderate,53
+2025-01-30,Andorra,Good,17
+2025-01-30,Argentina,Good,9
+2025-01-30,Armenia,Unhealthy for Sensitive Groups,103
+2025-01-30,Australia,Good,33
+2025-01-30,Austria,Moderate,53
+2025-01-30,Azerbaijan,Moderate,69
+2025-01-30,Bahrain,Moderate,61
+2025-01-30,Bangladesh,Hazardous,532
+2025-01-30,Belarus,Good,46
+2025-01-30,Belgium,Moderate,56
+2025-01-30,Bosnia and Herzegovina,Moderate,95
+2025-01-30,Brazil,Good,44
+2025-01-30,Brunei,Good,10
+2025-01-30,Bulgaria,Unhealthy for Sensitive Groups,104
+2025-01-30,Burkina Faso,Moderate,58
+2025-01-30,Cambodia,Unhealthy for Sensitive Groups,147
+2025-01-30,Canada,Moderate,64
+2025-01-30,Cape Verde,Moderate,59
+2025-01-30,Chad,Moderate,95
+2025-01-30,Chile,Moderate,52
+2025-01-30,China,Very Unhealthy,275
+2025-01-30,Colombia,Moderate,53
+2025-01-30,Costa Rica,Good,23
+2025-01-30,Croatia,Moderate,86
+2025-01-30,Cyprus,Moderate,65
+2025-01-30,Czech Republic,Moderate,98
+2025-01-30,Denmark,Good,18
+2025-01-30,Dominican Republic,Moderate,56
+2025-01-30,Ecuador,Moderate,54
+2025-01-30,Egypt,Unhealthy,163
+2025-01-30,Estonia,Good,27
+2025-01-30,Ethiopia,Moderate,59
+2025-01-30,Finland,Good,18
+2025-01-30,France,Moderate,73
+2025-01-30,French Guiana,Good,47
+2025-01-30,Georgia,Unhealthy for Sensitive Groups,102
+2025-01-30,Germany,Moderate,80
+2025-01-30,Ghana,Moderate,84
+2025-01-30,Gibraltar,Good,35
+2025-01-30,Greece,Moderate,74
+2025-01-30,Guadeloupe,Good,44
+2025-01-30,Guatemala,Good,30
+2025-01-30,Hong Kong,Moderate,64
+2025-01-30,Hungary,Moderate,98
+2025-01-30,Iceland,Good,20
+2025-01-30,India,Hazardous,502
+2025-01-30,Indonesia,Moderate,68
+2025-01-30,Iran,Unhealthy for Sensitive Groups,125
+2025-01-30,Iraq,Moderate,68
+2025-01-30,Ireland,Good,37
+2025-01-30,Israel,Moderate,85
+2025-01-30,Italy,Unhealthy for Sensitive Groups,101
+2025-01-30,Ivory Coast,Moderate,70
+2025-01-30,Japan,Moderate,69
+2025-01-30,Jersey,Good,30
+2025-01-30,Jordan,Good,30
+2025-01-30,Kazakhstan,Moderate,90
+2025-01-30,Kenya,Good,18
+2025-01-30,Kosovo,Good,48
+2025-01-30,Kuwait,Moderate,71
+2025-01-30,Kyrgyzstan,Moderate,82
+2025-01-30,Laos,Unhealthy for Sensitive Groups,146
+2025-01-30,Latvia,Good,16
+2025-01-30,Liberia,Moderate,67
+2025-01-30,Liechtenstein,Good,33
+2025-01-30,Lithuania,Good,17
+2025-01-30,Luxembourg,Good,23
+2025-01-30,Macao,Moderate,72
+2025-01-30,Macedonia,Unhealthy for Sensitive Groups,149
+2025-01-30,Madagascar,Good,25
+2025-01-30,Malaysia,Moderate,59
+2025-01-30,Malta,Good,24
+2025-01-30,Martinique,Moderate,64
+2025-01-30,Mexico,Unhealthy for Sensitive Groups,119
+2025-01-30,Moldova,Good,45
+2025-01-30,Monaco,Good,25
+2025-01-30,Mongolia,Moderate,89
+2025-01-30,Montenegro,Good,16
+2025-01-30,Myanmar,Unhealthy for Sensitive Groups,143
+2025-01-30,Nepal,Unhealthy for Sensitive Groups,143
+2025-01-30,Netherlands,Moderate,53
+2025-01-30,New Caledonia,Good,15
+2025-01-30,New Zealand,Good,26
+2025-01-30,Nigeria,Moderate,91
+2025-01-30,Norway,Good,31
+2025-01-30,Pakistan,Unhealthy,175
+2025-01-30,Palestinian Territory,Unhealthy for Sensitive Groups,107
+2025-01-30,Peru,Unhealthy for Sensitive Groups,139
+2025-01-30,Philippines,Moderate,54
+2025-01-30,Poland,Moderate,60
+2025-01-30,Portugal,Good,27
+2025-01-30,Reunion,Good,16
+2025-01-30,Romania,Unhealthy for Sensitive Groups,139
+2025-01-30,Russia,Moderate,76
+2025-01-30,San Marino,Good,37
+2025-01-30,Saudi Arabia,Moderate,70
+2025-01-30,Serbia,Unhealthy,166
+2025-01-30,Singapore,Moderate,57
+2025-01-30,Slovakia,Moderate,77
+2025-01-30,Slovenia,Moderate,54
+2025-01-30,South Africa,Moderate,55
+2025-01-30,South Korea,Moderate,76
+2025-01-30,Spain,Moderate,59
+2025-01-30,Sri Lanka,Unhealthy for Sensitive Groups,128
+2025-01-30,Sweden,Good,23
+2025-01-30,Switzerland,Good,32
+2025-01-30,Taiwan,Moderate,65
+2025-01-30,Tajikistan,Unhealthy for Sensitive Groups,131
+2025-01-30,Thailand,Unhealthy,164
+2025-01-30,Togo,Moderate,88
+2025-01-30,Trinidad and Tobago,Good,33
+2025-01-30,Turkey,Unhealthy,166
+2025-01-30,Turkmenistan,Moderate,55
+2025-01-30,Uganda,Unhealthy,180
+2025-01-30,Ukraine,Moderate,96
+2025-01-30,United Arab Emirates,Moderate,66
+2025-01-30,United Kingdom of Great Britain and Northern Ireland,Good,47
+2025-01-30,United States of America,Unhealthy for Sensitive Groups,129
+2025-01-30,Uzbekistan,Moderate,68
+2025-01-30,Vatican,Good,38
+2025-01-30,Vietnam,Unhealthy for Sensitive Groups,105
+2025-02-06,Albania,Moderate,52
+2025-02-06,Algeria,Moderate,87
+2025-02-06,Andorra,Good,10
+2025-02-06,Argentina,Good,16
+2025-02-06,Armenia,Moderate,80
+2025-02-06,Australia,Moderate,71
+2025-02-06,Austria,Moderate,76
+2025-02-06,Azerbaijan,Good,37
+2025-02-06,Bahrain,Moderate,74
+2025-02-06,Bangladesh,Hazardous,411
+2025-02-06,Belarus,Good,35
+2025-02-06,Belgium,Unhealthy for Sensitive Groups,122
+2025-02-06,Bosnia and Herzegovina,Moderate,99
+2025-02-06,Brazil,Moderate,58
+2025-02-06,Brunei,Good,13
+2025-02-06,Bulgaria,Moderate,56
+2025-02-06,Cambodia,Unhealthy for Sensitive Groups,108
+2025-02-06,Canada,Moderate,55
+2025-02-06,Cape Verde,Moderate,55
+2025-02-06,Chad,Very Unhealthy,207
+2025-02-06,Chile,Moderate,63
+2025-02-06,China,Unhealthy,176
+2025-02-06,Colombia,Moderate,78
+2025-02-06,Costa Rica,Good,26
+2025-02-06,Croatia,Unhealthy for Sensitive Groups,113
+2025-02-06,Cyprus,Good,27
+2025-02-06,Czech Republic,Unhealthy for Sensitive Groups,127
+2025-02-06,Denmark,Good,17
+2025-02-06,Dominican Republic,Good,14
+2025-02-06,Ecuador,Moderate,79
+2025-02-06,Egypt,Good,46
+2025-02-06,Estonia,Good,29
+2025-02-06,Ethiopia,Moderate,89
+2025-02-06,Finland,Moderate,52
+2025-02-06,France,Unhealthy for Sensitive Groups,130
+2025-02-06,French Guiana,Good,20
+2025-02-06,Georgia,Moderate,68
+2025-02-06,Germany,Very Unhealthy,268
+2025-02-06,Ghana,Moderate,88
+2025-02-06,Gibraltar,Good,15
+2025-02-06,Greece,Moderate,57
+2025-02-06,Guadeloupe,Good,13
+2025-02-06,Guatemala,Good,46
+2025-02-06,Hong Kong,Moderate,75
+2025-02-06,Hungary,Unhealthy for Sensitive Groups,145
+2025-02-06,Iceland,Moderate,59
+2025-02-06,India,Very Unhealthy,261
+2025-02-06,Indonesia,Moderate,82
+2025-02-06,Iran,Unhealthy for Sensitive Groups,122
+2025-02-06,Iraq,Unhealthy,169
+2025-02-06,Ireland,Moderate,66
+2025-02-06,Israel,Moderate,63
+2025-02-06,Italy,Unhealthy for Sensitive Groups,113
+2025-02-06,Ivory Coast,Good,50
+2025-02-06,Japan,Moderate,61
+2025-02-06,Jersey,Good,33
+2025-02-06,Jordan,Good,11
+2025-02-06,Kazakhstan,Unhealthy for Sensitive Groups,132
+2025-02-06,Kenya,Moderate,84
+2025-02-06,Kosovo,Moderate,73
+2025-02-06,Kuwait,Unhealthy for Sensitive Groups,114
+2025-02-06,Kyrgyzstan,Good,36
+2025-02-06,Laos,Unhealthy for Sensitive Groups,142
+2025-02-06,Latvia,Good,17
+2025-02-06,Liberia,Unhealthy,165
+2025-02-06,Liechtenstein,Good,15
+2025-02-06,Lithuania,Good,10
+2025-02-06,Luxembourg,Good,45
+2025-02-06,Macao,Moderate,99
+2025-02-06,Macedonia,Unhealthy for Sensitive Groups,128
+2025-02-06,Madagascar,Good,34
+2025-02-06,Malaysia,Moderate,79
+2025-02-06,Malta,Good,38
+2025-02-06,Martinique,Good,19
+2025-02-06,Mexico,Unhealthy for Sensitive Groups,107
+2025-02-06,Moldova,Good,19
+2025-02-06,Monaco,Moderate,51
+2025-02-06,Mongolia,Moderate,77
+2025-02-06,Montenegro,Moderate,70
+2025-02-06,Myanmar,Unhealthy,190
+2025-02-06,Nepal,Unhealthy for Sensitive Groups,143
+2025-02-06,Netherlands,Unhealthy for Sensitive Groups,129
+2025-02-06,New Caledonia,Good,14
+2025-02-06,New Zealand,Good,30
+2025-02-06,Nigeria,Moderate,87
+2025-02-06,Norway,Good,27
+2025-02-06,Pakistan,Unhealthy for Sensitive Groups,128
+2025-02-06,Palestinian Territory,Moderate,69
+2025-02-06,Peru,Moderate,57
+2025-02-06,Philippines,Moderate,61
+2025-02-06,Poland,Unhealthy,157
+2025-02-06,Portugal,Good,45
+2025-02-06,Reunion,Good,8
+2025-02-06,Romania,Moderate,72
+2025-02-06,Russia,Moderate,80
+2025-02-06,San Marino,Moderate,70
+2025-02-06,Saudi Arabia,Moderate,74
+2025-02-06,Serbia,Unhealthy,157
+2025-02-06,Singapore,Moderate,64
+2025-02-06,Slovakia,Unhealthy for Sensitive Groups,102
+2025-02-06,Slovenia,Moderate,98
+2025-02-06,South Africa,Moderate,64
+2025-02-06,South Korea,Moderate,71
+2025-02-06,Spain,Unhealthy for Sensitive Groups,124
+2025-02-06,Sri Lanka,Unhealthy,166
+2025-02-06,Sweden,Good,24
+2025-02-06,Switzerland,Moderate,90
+2025-02-06,Taiwan,Unhealthy for Sensitive Groups,107
+2025-02-06,Tajikistan,Unhealthy,153
+2025-02-06,Thailand,Unhealthy,165
+2025-02-06,Togo,Unhealthy for Sensitive Groups,133
+2025-02-06,Trinidad and Tobago,Good,35
+2025-02-06,Turkey,Unhealthy for Sensitive Groups,120
+2025-02-06,Turkmenistan,Unhealthy for Sensitive Groups,137
+2025-02-06,Uganda,Very Unhealthy,208
+2025-02-06,Ukraine,Moderate,65
+2025-02-06,United Arab Emirates,Moderate,85
+2025-02-06,United Kingdom of Great Britain and Northern Ireland,Moderate,87
+2025-02-06,United States of America,Unhealthy for Sensitive Groups,109
+2025-02-06,Uzbekistan,Moderate,68
+2025-02-06,Vatican,Moderate,61
+2025-02-06,Vietnam,Unhealthy for Sensitive Groups,102
+2025-02-13,Algeria,Good,38
+2025-02-13,Andorra,Good,7
+2025-02-13,Argentina,Good,15
+2025-02-13,Armenia,Unhealthy for Sensitive Groups,109
+2025-02-13,Australia,Good,43
+2025-02-13,Austria,Unhealthy for Sensitive Groups,115
+2025-02-13,Azerbaijan,Moderate,57
+2025-02-13,Bahrain,Moderate,93
+2025-02-13,Bangladesh,Unhealthy,156
+2025-02-13,Belarus,Good,45
+2025-02-13,Belgium,Unhealthy for Sensitive Groups,102
+2025-02-13,Bosnia and Herzegovina,Unhealthy for Sensitive Groups,140
+2025-02-13,Brazil,Moderate,63
+2025-02-13,Brunei,Good,17
+2025-02-13,Bulgaria,Moderate,88
+2025-02-13,Burkina Faso,Moderate,70
+2025-02-13,Cambodia,Moderate,77
+2025-02-13,Canada,Moderate,76
+2025-02-13,Cape Verde,Good,50
+2025-02-13,Chad,Very Unhealthy,280
+2025-02-13,Chile,Moderate,82
+2025-02-13,China,Unhealthy,196
+2025-02-13,Colombia,Moderate,63
+2025-02-13,Costa Rica,Good,21
+2025-02-13,Croatia,Moderate,95
+2025-02-13,Cyprus,Good,40
+2025-02-13,Czech Republic,Unhealthy for Sensitive Groups,104
+2025-02-13,Denmark,Good,16
+2025-02-13,Dominican Republic,Good,22
+2025-02-13,Ecuador,Moderate,54
+2025-02-13,Egypt,Unhealthy for Sensitive Groups,128
+2025-02-13,Estonia,Good,44
+2025-02-13,Ethiopia,Good,46
+2025-02-13,Finland,Good,16
+2025-02-13,France,Unhealthy for Sensitive Groups,105
+2025-02-13,French Guiana,Good,35
+2025-02-13,Georgia,Moderate,95
+2025-02-13,Germany,Unhealthy,163
+2025-02-13,Ghana,Moderate,76
+2025-02-13,Gibraltar,Good,20
+2025-02-13,Greece,Moderate,72
+2025-02-13,Guadeloupe,Good,25
+2025-02-13,Guatemala,Moderate,82
+2025-02-13,Hong Kong,Unhealthy for Sensitive Groups,109
+2025-02-13,Hungary,Unhealthy for Sensitive Groups,134
+2025-02-13,Iceland,Good,24
+2025-02-13,India,Unhealthy,176
+2025-02-13,Indonesia,Unhealthy for Sensitive Groups,131
+2025-02-13,Iran,Unhealthy for Sensitive Groups,148
+2025-02-13,Iraq,Unhealthy,151
+2025-02-13,Ireland,Moderate,58
+2025-02-13,Israel,Moderate,54
+2025-02-13,Italy,Unhealthy,151
+2025-02-13,Ivory Coast,Unhealthy for Sensitive Groups,110
+2025-02-13,Japan,Unhealthy for Sensitive Groups,136
+2025-02-13,Jersey,Good,31
+2025-02-13,Jordan,Good,15
+2025-02-13,Kazakhstan,Unhealthy for Sensitive Groups,102
+2025-02-13,Kenya,Moderate,85
+2025-02-13,Kosovo,Moderate,100
+2025-02-13,Kuwait,Moderate,70
+2025-02-13,Kyrgyzstan,Moderate,85
+2025-02-13,Laos,Unhealthy for Sensitive Groups,125
+2025-02-13,Latvia,Good,19
+2025-02-13,Liberia,Moderate,95
+2025-02-13,Liechtenstein,Good,16
+2025-02-13,Lithuania,Good,27
+2025-02-13,Luxembourg,Good,50
+2025-02-13,Macao,Moderate,93
+2025-02-13,Macedonia,Unhealthy for Sensitive Groups,111
+2025-02-13,Madagascar,Good,42
+2025-02-13,Malaysia,Moderate,74
+2025-02-13,Malta,Good,46
+2025-02-13,Martinique,Good,41
+2025-02-13,Mexico,Unhealthy for Sensitive Groups,101
+2025-02-13,Moldova,Moderate,51
+2025-02-13,Monaco,Good,22
+2025-02-13,Mongolia,Unhealthy for Sensitive Groups,137
+2025-02-13,Montenegro,Unhealthy for Sensitive Groups,108
+2025-02-13,Myanmar,Unhealthy for Sensitive Groups,143
+2025-02-13,Nepal,Unhealthy,157
+2025-02-13,Netherlands,Unhealthy,160
+2025-02-13,New Caledonia,Good,14
+2025-02-13,New Zealand,Good,23
+2025-02-13,Nigeria,Moderate,97
+2025-02-13,Norway,Good,45
+2025-02-13,Pakistan,Unhealthy for Sensitive Groups,114
+2025-02-13,Palestinian Territory,Good,45
+2025-02-13,Peru,Moderate,95
+2025-02-13,Philippines,Unhealthy for Sensitive Groups,107
+2025-02-13,Poland,Unhealthy,159
+2025-02-13,Portugal,Good,25
+2025-02-13,Reunion,Good,9
+2025-02-13,Romania,Unhealthy for Sensitive Groups,150
+2025-02-13,Russia,Moderate,62
+2025-02-13,San Marino,Unhealthy for Sensitive Groups,114
+2025-02-13,Saudi Arabia,Moderate,93
+2025-02-13,Serbia,Unhealthy for Sensitive Groups,142
+2025-02-13,Singapore,Moderate,56
+2025-02-13,Slovakia,Moderate,97
+2025-02-13,Slovenia,Unhealthy for Sensitive Groups,128
+2025-02-13,South Africa,Good,41
+2025-02-13,South Korea,Moderate,69
+2025-02-13,Spain,Moderate,84
+2025-02-13,Sri Lanka,Unhealthy for Sensitive Groups,119
+2025-02-13,Sweden,Good,37
+2025-02-13,Switzerland,Moderate,58
+2025-02-13,Taiwan,Good,39
+2025-02-13,Tajikistan,Unhealthy,163
+2025-02-13,Thailand,Unhealthy,171
+2025-02-13,Togo,Moderate,81
+2025-02-13,Trinidad and Tobago,Good,45
+2025-02-13,Turkey,Unhealthy for Sensitive Groups,143
+2025-02-13,Turkmenistan,Unhealthy for Sensitive Groups,147
+2025-02-13,Uganda,Unhealthy,178
+2025-02-13,Ukraine,Unhealthy for Sensitive Groups,118
+2025-02-13,United Arab Emirates,Moderate,86
+2025-02-13,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,135
+2025-02-13,United States of America,Moderate,77
+2025-02-13,Uzbekistan,Moderate,78
+2025-02-13,Vatican,Moderate,72
+2025-02-13,Vietnam,Unhealthy for Sensitive Groups,103
+2025-02-20,Algeria,Moderate,89
+2025-02-20,Andorra,Good,13
+2025-02-20,Argentina,Good,26
+2025-02-20,Armenia,Good,29
+2025-02-20,Australia,Good,38
+2025-02-20,Austria,Moderate,75
+2025-02-20,Azerbaijan,Good,21
+2025-02-20,Bahrain,Moderate,70
+2025-02-20,Bangladesh,Very Unhealthy,264
+2025-02-20,Belarus,Good,42
+2025-02-20,Belgium,Unhealthy for Sensitive Groups,120
+2025-02-20,Bosnia and Herzegovina,Unhealthy for Sensitive Groups,102
+2025-02-20,Brazil,Moderate,64
+2025-02-20,Brunei,Good,10
+2025-02-20,Bulgaria,Moderate,73
+2025-02-20,Burkina Faso,Unhealthy,159
+2025-02-20,Cambodia,Good,24
+2025-02-20,Canada,Good,45
+2025-02-20,Cape Verde,Good,33
+2025-02-20,Chad,Unhealthy for Sensitive Groups,132
+2025-02-20,Chile,Moderate,61
+2025-02-20,China,Unhealthy,173
+2025-02-20,Colombia,Moderate,73
+2025-02-20,Costa Rica,Good,26
+2025-02-20,Croatia,Unhealthy for Sensitive Groups,108
+2025-02-20,Cyprus,Good,33
+2025-02-20,Czech Republic,Unhealthy for Sensitive Groups,146
+2025-02-20,Denmark,Good,20
+2025-02-20,Dominican Republic,Good,34
+2025-02-20,Ecuador,Good,42
+2025-02-20,Egypt,Unhealthy,156
+2025-02-20,Estonia,Good,32
+2025-02-20,Ethiopia,Moderate,65
+2025-02-20,Finland,Good,48
+2025-02-20,France,Unhealthy for Sensitive Groups,132
+2025-02-20,French Guiana,Good,33
+2025-02-20,Georgia,Moderate,60
+2025-02-20,Germany,Moderate,100
+2025-02-20,Ghana,Moderate,70
+2025-02-20,Gibraltar,Moderate,52
+2025-02-20,Greece,Moderate,52
+2025-02-20,Guadeloupe,Good,18
+2025-02-20,Guatemala,Moderate,88
+2025-02-20,Hong Kong,Moderate,70
+2025-02-20,Hungary,Unhealthy,168
+2025-02-20,Iceland,Good,27
+2025-02-20,India,Unhealthy,196
+2025-02-20,Indonesia,Unhealthy for Sensitive Groups,107
+2025-02-20,Iran,Unhealthy for Sensitive Groups,111
+2025-02-20,Iraq,Moderate,95
+2025-02-20,Ireland,Good,46
+2025-02-20,Israel,Moderate,62
+2025-02-20,Italy,Moderate,96
+2025-02-20,Ivory Coast,Unhealthy for Sensitive Groups,140
+2025-02-20,Japan,Moderate,65
+2025-02-20,Jersey,Good,15
+2025-02-20,Jordan,Good,19
+2025-02-20,Kazakhstan,Unhealthy,162
+2025-02-20,Kenya,Unhealthy for Sensitive Groups,145
+2025-02-20,Kosovo,Moderate,62
+2025-02-20,Kuwait,Moderate,59
+2025-02-20,Kyrgyzstan,Moderate,67
+2025-02-20,Laos,Unhealthy for Sensitive Groups,142
+2025-02-20,Latvia,Good,1
+2025-02-20,Liberia,Moderate,60
+2025-02-20,Liechtenstein,Good,28
+2025-02-20,Lithuania,Good,15
+2025-02-20,Luxembourg,Moderate,80
+2025-02-20,Macao,Moderate,76
+2025-02-20,Macedonia,Unhealthy for Sensitive Groups,120
+2025-02-20,Madagascar,Moderate,59
+2025-02-20,Malaysia,Moderate,60
+2025-02-20,Malta,Good,36
+2025-02-20,Martinique,Good,29
+2025-02-20,Mexico,Unhealthy for Sensitive Groups,115
+2025-02-20,Moldova,Good,48
+2025-02-20,Monaco,Moderate,62
+2025-02-20,Mongolia,Moderate,99
+2025-02-20,Montenegro,Moderate,61
+2025-02-20,Myanmar,Unhealthy for Sensitive Groups,134
+2025-02-20,Nepal,Unhealthy,163
+2025-02-20,Netherlands,Unhealthy for Sensitive Groups,112
+2025-02-20,New Caledonia,Good,11
+2025-02-20,New Zealand,Good,13
+2025-02-20,Nigeria,Unhealthy,158
+2025-02-20,Norway,Moderate,52
+2025-02-20,Pakistan,Moderate,64
+2025-02-20,Palestinian Territory,Moderate,85
+2025-02-20,Peru,Moderate,59
+2025-02-20,Philippines,Moderate,74
+2025-02-20,Poland,Unhealthy,200
+2025-02-20,Portugal,Moderate,51
+2025-02-20,Reunion,Good,10
+2025-02-20,Romania,Unhealthy for Sensitive Groups,117
+2025-02-20,Russia,Unhealthy for Sensitive Groups,102
+2025-02-20,San Marino,Good,26
+2025-02-20,Saudi Arabia,Moderate,89
+2025-02-20,Serbia,Unhealthy,181
+2025-02-20,Singapore,Moderate,52
+2025-02-20,Slovakia,Unhealthy for Sensitive Groups,121
+2025-02-20,Slovenia,Unhealthy for Sensitive Groups,105
+2025-02-20,South Africa,Good,41
+2025-02-20,South Korea,Moderate,57
+2025-02-20,Spain,Unhealthy for Sensitive Groups,102
+2025-02-20,Sri Lanka,Unhealthy,158
+2025-02-20,Sweden,Good,31
+2025-02-20,Switzerland,Unhealthy for Sensitive Groups,107
+2025-02-20,Taiwan,Unhealthy for Sensitive Groups,106
+2025-02-20,Tajikistan,Unhealthy for Sensitive Groups,122
+2025-02-20,Thailand,Unhealthy for Sensitive Groups,137
+2025-02-20,Togo,Moderate,69
+2025-02-20,Trinidad and Tobago,Good,47
+2025-02-20,Turkey,Moderate,81
+2025-02-20,Turkmenistan,Moderate,55
+2025-02-20,Uganda,Very Unhealthy,235
+2025-02-20,Ukraine,Moderate,66
+2025-02-20,United Arab Emirates,Moderate,56
+2025-02-20,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,139
+2025-02-20,United States of America,Moderate,98
+2025-02-20,Uzbekistan,Good,46
+2025-02-20,Vatican,Moderate,65
+2025-02-20,Vietnam,Moderate,94
+2025-02-27,Albania,Good,7
+2025-02-27,Algeria,Moderate,78
+2025-02-27,Andorra,Good,10
+2025-02-27,Argentina,Good,13
+2025-02-27,Armenia,Moderate,52
+2025-02-27,Australia,Good,49
+2025-02-27,Austria,Good,40
+2025-02-27,Azerbaijan,Moderate,65
+2025-02-27,Bahrain,Moderate,82
+2025-02-27,Bangladesh,Very Unhealthy,241
+2025-02-27,Belarus,Good,40
+2025-02-27,Belgium,Good,34
+2025-02-27,Bosnia and Herzegovina,Good,45
+2025-02-27,Brazil,Moderate,62
+2025-02-27,Brunei,Good,11
+2025-02-27,Bulgaria,Unhealthy,153
+2025-02-27,Burkina Faso,Unhealthy,163
+2025-02-27,Canada,Moderate,59
+2025-02-27,Cape Verde,Moderate,98
+2025-02-27,Chad,Very Unhealthy,236
+2025-02-27,Chile,Moderate,71
+2025-02-27,China,Very Unhealthy,210
+2025-02-27,Colombia,Moderate,71
+2025-02-27,Costa Rica,Good,29
+2025-02-27,Croatia,Moderate,57
+2025-02-27,Cyprus,Good,34
+2025-02-27,Czech Republic,Unhealthy,153
+2025-02-27,Denmark,Good,20
+2025-02-27,Dominican Republic,Good,31
+2025-02-27,Ecuador,Good,46
+2025-02-27,Egypt,Unhealthy for Sensitive Groups,132
+2025-02-27,Estonia,Moderate,64
+2025-02-27,Ethiopia,Moderate,63
+2025-02-27,Finland,Good,46
+2025-02-27,France,Moderate,60
+2025-02-27,French Guiana,Moderate,61
+2025-02-27,Georgia,Good,41
+2025-02-27,Germany,Unhealthy for Sensitive Groups,124
+2025-02-27,Ghana,Moderate,63
+2025-02-27,Gibraltar,Good,21
+2025-02-27,Greece,Moderate,91
+2025-02-27,Guadeloupe,Good,47
+2025-02-27,Guatemala,Moderate,98
+2025-02-27,Hong Kong,Moderate,64
+2025-02-27,Hungary,Unhealthy,164
+2025-02-27,Iceland,Good,27
+2025-02-27,India,Unhealthy,194
+2025-02-27,Indonesia,Unhealthy for Sensitive Groups,129
+2025-02-27,Iran,Very Unhealthy,246
+2025-02-27,Ireland,Good,29
+2025-02-27,Israel,Moderate,73
+2025-02-27,Italy,Unhealthy,156
+2025-02-27,Ivory Coast,Good,23
+2025-02-27,Japan,Unhealthy for Sensitive Groups,133
+2025-02-27,Jersey,Good,39
+2025-02-27,Jordan,Good,31
+2025-02-27,Kazakhstan,Moderate,90
+2025-02-27,Kenya,Unhealthy for Sensitive Groups,150
+2025-02-27,Kosovo,Moderate,72
+2025-02-27,Kuwait,Moderate,54
+2025-02-27,Kyrgyzstan,Moderate,78
+2025-02-27,Laos,Moderate,75
+2025-02-27,Latvia,Good,9
+2025-02-27,Liberia,Unhealthy for Sensitive Groups,103
+2025-02-27,Liechtenstein,Good,12
+2025-02-27,Lithuania,Good,31
+2025-02-27,Luxembourg,Good,26
+2025-02-27,Macao,Moderate,93
+2025-02-27,Macedonia,Unhealthy,153
+2025-02-27,Madagascar,Good,25
+2025-02-27,Malaysia,Moderate,53
+2025-02-27,Malta,Good,45
+2025-02-27,Martinique,Moderate,57
+2025-02-27,Mexico,Unhealthy for Sensitive Groups,133
+2025-02-27,Moldova,Good,42
+2025-02-27,Monaco,Good,13
+2025-02-27,Mongolia,Moderate,88
+2025-02-27,Montenegro,Good,40
+2025-02-27,Myanmar,Moderate,100
+2025-02-27,Nepal,Unhealthy,159
+2025-02-27,Netherlands,Moderate,53
+2025-02-27,New Caledonia,Good,16
+2025-02-27,New Zealand,Good,24
+2025-02-27,Nigeria,Unhealthy for Sensitive Groups,126
+2025-02-27,Norway,Good,32
+2025-02-27,Pakistan,Unhealthy for Sensitive Groups,118
+2025-02-27,Palestinian Territory,Moderate,94
+2025-02-27,Peru,Moderate,54
+2025-02-27,Philippines,Moderate,61
+2025-02-27,Poland,Unhealthy,163
+2025-02-27,Portugal,Good,19
+2025-02-27,Reunion,Good,8
+2025-02-27,Romania,Unhealthy,169
+2025-02-27,Russia,Unhealthy for Sensitive Groups,115
+2025-02-27,San Marino,Moderate,55
+2025-02-27,Saudi Arabia,Moderate,87
+2025-02-27,Serbia,Unhealthy,171
+2025-02-27,Singapore,Good,43
+2025-02-27,Slovakia,Unhealthy,154
+2025-02-27,Slovenia,Good,24
+2025-02-27,South Africa,Good,41
+2025-02-27,South Korea,Unhealthy for Sensitive Groups,113
+2025-02-27,Spain,Moderate,71
+2025-02-27,Sri Lanka,Moderate,78
+2025-02-27,Sweden,Good,46
+2025-02-27,Switzerland,Good,26
+2025-02-27,Taiwan,Unhealthy for Sensitive Groups,140
+2025-02-27,Tajikistan,Unhealthy,161
+2025-02-27,Thailand,Unhealthy for Sensitive Groups,133
+2025-02-27,Togo,Moderate,71
+2025-02-27,Trinidad and Tobago,Moderate,58
+2025-02-27,Turkey,Unhealthy for Sensitive Groups,142
+2025-02-27,Turkmenistan,Good,30
+2025-02-27,Uganda,Unhealthy,180
+2025-02-27,Ukraine,Unhealthy for Sensitive Groups,108
+2025-02-27,United Arab Emirates,Good,45
+2025-02-27,United Kingdom of Great Britain and Northern Ireland,Good,39
+2025-02-27,United States of America,Moderate,96
+2025-02-27,Uzbekistan,Good,21
+2025-02-27,Vatican,Moderate,59
+2025-02-27,Venezuela,Good,20
+2025-02-27,Vietnam,Moderate,83
+2025-03-06,Albania,Good,7
+2025-03-06,Algeria,Unhealthy for Sensitive Groups,102
+2025-03-06,Andorra,Good,34
+2025-03-06,Argentina,Good,36
+2025-03-06,Armenia,Moderate,62
+2025-03-06,Australia,Good,49
+2025-03-06,Austria,Moderate,84
+2025-03-06,Azerbaijan,Moderate,61
+2025-03-06,Bahrain,Moderate,70
+2025-03-06,Bangladesh,Unhealthy,152
+2025-03-06,Belarus,Good,37
+2025-03-06,Belgium,Unhealthy for Sensitive Groups,141
+2025-03-06,Bosnia and Herzegovina,Moderate,74
+2025-03-06,Brazil,Moderate,75
+2025-03-06,Brunei,Good,14
+2025-03-06,Bulgaria,Moderate,61
+2025-03-06,Burkina Faso,Unhealthy,153
+2025-03-06,Cambodia,Good,33
+2025-03-06,Canada,Moderate,57
+2025-03-06,Cape Verde,Good,18
+2025-03-06,Chad,Unhealthy for Sensitive Groups,144
+2025-03-06,Chile,Moderate,54
+2025-03-06,China,Unhealthy,188
+2025-03-06,Colombia,Moderate,71
+2025-03-06,Costa Rica,Good,25
+2025-03-06,Croatia,Unhealthy for Sensitive Groups,109
+2025-03-06,Cyprus,Good,48
+2025-03-06,Czech Republic,Unhealthy,152
+2025-03-06,Denmark,Good,33
+2025-03-06,Dominican Republic,Good,16
+2025-03-06,Ecuador,Good,30
+2025-03-06,Egypt,Moderate,57
+2025-03-06,Estonia,Good,27
+2025-03-06,Ethiopia,Unhealthy for Sensitive Groups,132
+2025-03-06,Finland,Good,23
+2025-03-06,France,Unhealthy,153
+2025-03-06,French Guiana,Good,21
+2025-03-06,Georgia,Good,49
+2025-03-06,Germany,Unhealthy for Sensitive Groups,122
+2025-03-06,Ghana,Moderate,76
+2025-03-06,Gibraltar,Moderate,58
+2025-03-06,Greece,Moderate,63
+2025-03-06,Guadeloupe,Good,27
+2025-03-06,Guatemala,Moderate,61
+2025-03-06,Hong Kong,Good,10
+2025-03-06,Hungary,Unhealthy for Sensitive Groups,144
+2025-03-06,Iceland,Good,27
+2025-03-06,India,Very Unhealthy,235
+2025-03-06,Indonesia,Unhealthy for Sensitive Groups,116
+2025-03-06,Iran,Unhealthy for Sensitive Groups,104
+2025-03-06,Ireland,Good,37
+2025-03-06,Israel,Unhealthy,152
+2025-03-06,Italy,Unhealthy for Sensitive Groups,104
+2025-03-06,Ivory Coast,Moderate,90
+2025-03-06,Japan,Good,42
+2025-03-06,Jersey,Moderate,56
+2025-03-06,Jordan,Good,22
+2025-03-06,Kazakhstan,Unhealthy for Sensitive Groups,105
+2025-03-06,Kenya,Unhealthy for Sensitive Groups,118
+2025-03-06,Kosovo,Moderate,61
+2025-03-06,Kuwait,Moderate,79
+2025-03-06,Kyrgyzstan,Moderate,80
+2025-03-06,Laos,Unhealthy for Sensitive Groups,145
+2025-03-06,Latvia,Good,7
+2025-03-06,Liechtenstein,Good,20
+2025-03-06,Lithuania,Good,32
+2025-03-06,Luxembourg,Good,41
+2025-03-06,Macao,Good,13
+2025-03-06,Macedonia,Unhealthy for Sensitive Groups,134
+2025-03-06,Madagascar,Good,34
+2025-03-06,Malaysia,Moderate,67
+2025-03-06,Malta,Good,34
+2025-03-06,Martinique,Good,34
+2025-03-06,Mexico,Unhealthy for Sensitive Groups,143
+2025-03-06,Moldova,Good,50
+2025-03-06,Monaco,Good,34
+2025-03-06,Mongolia,Moderate,74
+2025-03-06,Montenegro,Moderate,60
+2025-03-06,Myanmar,Unhealthy,158
+2025-03-06,Nepal,Unhealthy for Sensitive Groups,129
+2025-03-06,Netherlands,Unhealthy for Sensitive Groups,135
+2025-03-06,New Caledonia,Good,10
+2025-03-06,New Zealand,Good,15
+2025-03-06,Nigeria,Unhealthy for Sensitive Groups,109
+2025-03-06,Norway,Good,47
+2025-03-06,Pakistan,Moderate,82
+2025-03-06,Palestinian Territory,Unhealthy for Sensitive Groups,132
+2025-03-06,Peru,Moderate,59
+2025-03-06,Philippines,Moderate,64
+2025-03-06,Poland,Unhealthy,157
+2025-03-06,Portugal,Good,44
+2025-03-06,Reunion,Good,18
+2025-03-06,Romania,Moderate,100
+2025-03-06,Russia,Unhealthy for Sensitive Groups,104
+2025-03-06,San Marino,Moderate,85
+2025-03-06,Saudi Arabia,Moderate,82
+2025-03-06,Serbia,Unhealthy,157
+2025-03-06,Singapore,Good,25
+2025-03-06,Slovakia,Unhealthy for Sensitive Groups,121
+2025-03-06,Slovenia,Moderate,83
+2025-03-06,South Africa,Moderate,75
+2025-03-06,South Korea,Moderate,96
+2025-03-06,Spain,Moderate,77
+2025-03-06,Sri Lanka,Unhealthy for Sensitive Groups,114
+2025-03-06,Sweden,Good,48
+2025-03-06,Switzerland,Moderate,57
+2025-03-06,Taiwan,Good,42
+2025-03-06,Tajikistan,Unhealthy for Sensitive Groups,150
+2025-03-06,Thailand,Unhealthy,165
+2025-03-06,Togo,Moderate,80
+2025-03-06,Trinidad and Tobago,Good,24
+2025-03-06,Turkey,Unhealthy for Sensitive Groups,122
+2025-03-06,Turkmenistan,Moderate,57
+2025-03-06,Uganda,Unhealthy,177
+2025-03-06,Ukraine,Moderate,61
+2025-03-06,United Arab Emirates,Unhealthy for Sensitive Groups,112
+2025-03-06,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,149
+2025-03-06,United States of America,Moderate,82
+2025-03-06,Uzbekistan,Good,17
+2025-03-06,Vatican,Moderate,65
+2025-03-06,Venezuela,Good,11
+2025-03-06,Vietnam,Moderate,64
